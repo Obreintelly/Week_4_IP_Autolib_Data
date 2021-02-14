@@ -11,6 +11,7 @@ Colab will be used as the text editor for this assignment.
 
 Dataset:
 The relevant datase for analysis can be accessed here: http://bit.ly/autolib_dataset
+Dataset License: Open Database License
 The description of the dataset can be accessed here: https://drive.google.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view
 
 
